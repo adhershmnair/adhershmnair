@@ -19,7 +19,7 @@ Feel free to explore my repositories and code snippets to get an idea of my codi
 
 ## Contact Me
 
-📫 You can reach me via email at adhershmnair@gmail.com or connect with me on [LinkedIn]([your LinkedIn profile URL](https://linkedin.com/in/adhershmnair)).
+📫 You can reach me via email at adhershmnair@gmail.com or connect with me on ([LinkedIn](https://linkedin.com/in/adhershmnair)).
 Let's connect and collaborate on exciting projects!
 
 ---
