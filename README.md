@@ -6,7 +6,7 @@
 - 💼 I work as **Tech Lead** at **Zyxware Technologies**.
 - 💻 My areas of interest includes both frontend, backend and devops.
 - 💬 Ask me about **VueJs**, **Drupal** and **AWS EC2**
-- ⚡ Fun fact: **Chai tastes way better than Coffee** | [Change my mind]([url](https://buymeacoffee.com/adhershmnair))!
+- ⚡ Fun fact: **Chai tastes way better than Coffee** | [Change my mind](https://buymeacoffee.com/adhershmnair)!
 
 Feel free to explore my repositories and code snippets to get an idea of my coding style and the topics I'm interested in.
 
