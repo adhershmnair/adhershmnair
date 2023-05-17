@@ -1,11 +1,11 @@
-<h1 align="center">Hello World 👋, I'm Adharsh</h1>
+<h1 align="center">Hello World 👋, I'm Adharsh M</h1>
 <h3 align="center">A Fullstack 🧑‍💻 Developer from India 🇮🇳</h3>
 
 ## About Me
 - 🌱 I'm currently learning and exploring new technologies.
-- 💼 I work as Tech Lead at Zyxware Technologies.
+- 💼 I work as **Tech Lead** at **Zyxware Technologies**.
 - 💻 My areas of interest includes both frontend, backend and devops.
-- 💬 Ask me about VueJs, Drupal and AWS EC2
+- 💬 Ask me about **VueJs**, **Drupal** and **AWS EC2**
 - ⚡ Fun fact Chai tastes way better than Coffee | Change my mind!
 
 Feel free to explore my repositories and code snippets to get an idea of my coding style and the topics I'm interested in.
