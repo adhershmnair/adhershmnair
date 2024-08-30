@@ -19,7 +19,7 @@ Feel free to explore my repositories and code snippets to get an idea of my codi
 
 ## Badges
 
-<a href="https://www.credly.com/badges/ccfd3581-c70d-4ec0-bfcf-08852a87ab1d" target="_blank"><img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"/></a>
+<a href="https://www.credly.com/badges/ccfd3581-c70d-4ec0-bfcf-08852a87ab1d" target="_blank"><img width="100" src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"/></a>
 
 ## Discord Presence
 <a href="https://github.com/adhershmnair/">
