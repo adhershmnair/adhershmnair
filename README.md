@@ -23,13 +23,6 @@ Feel free to explore my repositories and code snippets to get an idea of my codi
 <a href="https://www.credly.com/badges/0d1d7c47-4c57-43f7-a7ab-e16be764f51f" target="_blank"><img width="150" src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"/></a>
 <a href="https://www.credly.com/badges/8474c32b-49c9-4308-9492-23c8903ef287" target="_blank"><img width="150" src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob"/></a>
 
-
-
-## Discord Presence
-<a href="https://github.com/adhershmnair/">
- <img src="https://lanyard.cnrad.dev/api/488921043784957963"/>
-</a>
-
 ## Contact Me
 
 📫 You can reach me via email at adhershmnair@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/adhershmnair).
